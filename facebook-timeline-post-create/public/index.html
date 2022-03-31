@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook Post create</title>
+</head>
+<body> 
+
+    <!-- user section start -->
+    <section id="userSection">
+         <div class="container mt-5">
+             <div class="row justify-content-center">
+                 <div class="col-md-5">
+                     <div class="card shadow cardBg ">
+                         <div class="card-body">
+                             <div class="user_area_section">
+                                 <img style="width: 50px; height: 50px; border-radius: 50px; object-fit: cover;"
+                                     src="http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg" alt="">
+                                 <button data-bs-toggle="modal" data-bs-target="#post_modal">What's on your mind?</button>
+                             </div>
+
+                         </div>
+                     </div>
+                 </div>
+
+             </div>
+
+         </div>
+    </section>
+
+
+
+   <!-- timeline section start -->
+
+    <section id="timelineSection">
+        <div class="container mt-3">
+                <div class="row justify-content-center">
+                    <div class="col-md-5">
+                        <div class="card shadow cardBg ">
+                            <div class="card-body">
+                                <div class="timeline_area_section">
+                                    <div class="timeline_image_title d-flex align-items-center">
+                                         <img style="width: 50px; height: 50px; border-radius: 50px; object-fit: cover;"
+                                     src="http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg" alt="">
+                                        <h2 class="ms-3">Hamidul Islam Shamim</h2>
+                                    </div>
+                                    <div class="timeline-feuturesImage_content">
+                                        <p>২৬ শে মার্চ মহান স্বাধীনতা দিবস উপলক্ষে
+                                            Oppo স্মার্ট ফোন এর মেলার আয়োজন চলছে,,,,৷
+                                            গনপদ্দী হাই স্কুল মাঠ প্রাঙ্গণে।
+                                            নকলা মামুন মোবাইল কেয়ার এর পক্ষ থেকে।
+                                            মেলায় থাকছে Oppo অফিসিয়াল সব মডেল এর স্মার্ট ফোন।
+                                            এবং, বেকপাট,, গ্লাস, হেডফোন,
+                                            আরো অনেক কিছু,,,,।</p>
+                                            <img class="w-100" src="https://cdn.pixabay.com/photo/2014/09/07/16/53/couple-437968__480.jpg"
+                                                alt="">
+                                    </div>
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+
+                    
+                </div>
+        </div>
+           
+    </section>
+
+
+    <!-- modal section start -->
+
+    <section id="modalSection">
+        <div class="modal fade" id="post_modal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="text-center m-auto">Create a Post</h3>
+                    </div>
+                    <div class="modal-body shadow">
+                        <form method="POST">
+                            <div class="my-2">
+                                 <input type="text" class="form-control" placeholder="Auth Name">
+                            </div>
+                            <div class="my-2">
+                                <input type="text" class="form-control " placeholder="Auth Photo">
+                            </div>
+                            <div class="my-2">
+                                <textarea class="form-control" placeholder="Content" name="" id="" cols="56" rows="5"></textarea>
+                            </div>
+                            <div class="my-2">
+                                <input type="text" class="form-control" placeholder="Photo">
+                            </div>
+                           
+                            <button id="postBtn" class="btn btn-primary w-100">Submit Post</button>
+                        </form>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </section>
+    
+</body>
+</html>
