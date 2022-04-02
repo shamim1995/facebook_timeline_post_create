@@ -1,3 +1,25 @@
 {
-    
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shamim",
+      "user_photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg",
+      "content": "I love js",
+      "photo": "http://www.team.gsamdani.com/wp-content/uploads/2016/05/tm7.jpg"
+    },
+    {
+      "name": "Rock",
+      "user_photo": "https://static.remove.bg/remove-bg-web/b27c50a4d669fdc13528397ba4bc5bd61725e4cc/assets/start-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg",
+      "content": "এখনও গ্রামীন ফোনের এই বিজ্ঞাপনটা দেখলে,\nমায়ের জন্য বুকটা হুহু করে ওঠে।\nনিমেষেই চোখ ভরে ওঠে জলে।\nএই বিজ্ঞাপনের সাথে আমার সত্য জীবনের অনেক মিল ছিল…\nবিশেষ করে লঞ্চে বা নৌকায় করে ১৭ বছর আগের বাড়ি ফেরা,বাড়ি থেকে ঢাকা ফেরার সময় যতদুর পর্যন্ত দেখা যায় মায়ের কান্না ভরা চোখে রাস্তায় ঠায় দাঁড়িয়ে থাকা।\nঢাকা ফেরার পর মায়ের জল ভরা চোখ দুটো চোখের সামনে বার বার ভেসে ওঠা…..\nএভাবেই কেটে গেছে ১৭ টা বছর।\nআমার মা বাবার বয়স এখন অনেক।\nশিশুর মত হয়ে গেছে তাঁরা।\nআমিও পরিনত হয়েছি বয়সে আর পেশাগত কর্মে।\nসন্তানের বাবা হয়েছি আমি।\nআমি শুদ্ধ’র বাবা হবার পর বুঝতে পেরেছি,বাবা মায়ের কাছে আসলে সন্তান কি…..\nএভাবেই সময় বদলায়,\nশুধু স্মৃতি গুলো রয়ে যায়।\nধন্যবাদ মোস্তফা সরয়ার ফারুকী ভাইকে….\nএমন একটি কাজ দিয়ে আমার পর্দার যাত্রাকে সুগম করে দিয়েছিলেন….\nঅনেক স্মৃতি বিজড়িত এই বিজ্ঞাপনটি সত্যিই এখনও আমার আবেগের পুরো অস্তিত্ব জুড়ে বাস করে।",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fff2lftqIE077pFAKU1Mhbcj8YFvBbMvpA&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "sarowar",
+      "user_photo": "https://static.remove.bg/remove-bg-web/b27c50a4d669fdc13528397ba4bc5bd61725e4cc/assets/start-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg",
+      "content": "ddd",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fff2lftqIE077pFAKU1Mhbcj8YFvBbMvpA&usqp=CAU",
+      "id": 3
+    }
+  ]
 }
